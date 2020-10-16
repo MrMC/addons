@@ -1,3 +1,9 @@
+[B]4.1.9[/B]
+- added: Estonian language option
+
+[B]4.1.8[/B]
+- added: belarusian language option
+
 [B]4.1.7[/B]
 - improved: search results to handle articles at the end of title
 
