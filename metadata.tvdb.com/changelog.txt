@@ -1,5 +1,5 @@
 [B]2.1.8[/B]
-- Test repo
+- Added: Bulgarian, Belarusian and Estonian language option
 
 [B]2.1.7[/B]
 - Fixed episode title and plot not scraping
